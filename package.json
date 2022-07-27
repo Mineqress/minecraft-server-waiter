@@ -1,0 +1,18 @@
+{
+  "name": "@minepress/minecraft-server-waiter",
+  "version": "0.1.0",
+  "description": "Waits for a minecraft server to open",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "minecraft",
+    "server",
+    "waiter"
+  ],
+  "author": "Tiago Dinis <tiagodinis33@gmail.com>",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "minecraft-pinger": "^1.0.5",
+    "wait-port": "^0.3.0"
+  }
+}
