@@ -1,6 +1,6 @@
 {
   "name": "@minepress/minecraft-server-waiter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Waits for a minecraft server to open",
   "main": "index.js",
   "scripts": {},
